@@ -1,0 +1,12 @@
+flask
+Gunicorn
+scikit-learn
+numpy
+PyPDF2
+nltk
+openai==0.28
+pillow
+pydantic==1.10.9
+langchain[llm]
+pandas
+tabulate
