@@ -56,10 +56,4 @@ https://searchclan.vercel.app/home
 
 <b>SearchClan</b> project was created by:
 
-- [Abhishek Rao Komarraju](https://github.com/AbhishekkRao)
-- [Aibhinav Upadhyay](https://github.com/Abhixsmasher)
-- [Mahika Kushwaha](https://github.com/xx-Mahika-xx)
-- [Shivang Patel](https://github.com/Shivang-Patel)
-- [Vasu Pal](https://github.com/Vasu1712)
-
-## Video
+- [Ashish Astang](https://github.com/ashish-astang)
