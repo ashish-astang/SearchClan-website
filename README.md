@@ -34,8 +34,7 @@ Once installed, start the service with the start command. The web service will l
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
+
 
 ## Tech Stack
 -HTML
