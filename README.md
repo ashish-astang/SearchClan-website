@@ -34,8 +34,6 @@ Once installed, start the service with the start command. The web service will l
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
 
 ## Tech Stack
 -HTML
@@ -56,12 +54,8 @@ https://searchclan.vercel.app/home
 
 <b>SearchClan</b> project was created by:
 
-- [Abhishek Rao Komarraju](https://github.com/AbhishekkRao)
-- [Aibhinav Upadhyay](https://github.com/Abhixsmasher)
-- [Mahika Kushwaha](https://github.com/xx-Mahika-xx)
-- [Shivang Patel](https://github.com/Shivang-Patel)
-- [Vasu Pal](https://github.com/Vasu1712)
+- [Ashish Astang](https://github.com/ashish-astang)
 
-## Video
+
 
 
